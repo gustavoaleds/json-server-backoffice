@@ -1,5 +1,18 @@
 {
-  "projetos": [],
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Nexus Society",
+      "descricao": "Site fantasia para clube ou fórum.",
+      "link": "https://nexus-society.vercel.app/"
+    },
+    {
+      "id": 1,
+      "nome": "GA",
+      "descricao": "Primeiro site pessoal feio com HTML e CSS puro.",
+      "link": "https://portfolio-pessoal-iota.vercel.app/"
+    }
+],
   "usuarios": [
     {
       "id": 1,
